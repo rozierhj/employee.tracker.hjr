@@ -6,3 +6,15 @@ This was the first practice of using JavaScript to gather information from a use
 
 ## Usage
 
+Here is a [link to the webpage](https://rozierhj.github.io/employee.tracker.hjr/)
+
+
+This is what the web page should like like when this challenge is complete.
+
+[The script in action](https://app.screencastify.com/v3/watch/WQIJzQjmG4CAKt9xbX25)
+
+## Note
+
+This is a clone of original Repo that failed website launch.
+
+[Link to original Repo Commits](https://github.com/rozierhj/employee.tracker.challenge.hr/commits/main/)
