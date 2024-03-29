@@ -18,3 +18,5 @@ This is what the web page should like like when this challenge is complete.
 This is a clone of original Repo that failed website launch.
 
 [Link to original Repo Commits](https://github.com/rozierhj/employee.tracker.challenge.hr/commits/main/)
+
+[Link to github](https://github.com/rozierhj/employee.tracker.hjr)
